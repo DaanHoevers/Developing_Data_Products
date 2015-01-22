@@ -32,6 +32,7 @@ shinyUI(fluidPage(
                         ),
                 
                 br(),
+                helpText("Push the Ready button to see the results:"),
                 submitButton(text = "Ready"),
 
                 br(),
@@ -61,8 +62,9 @@ shinyUI(fluidPage(
                 h6("Data Source:"),
                 helpText("The Gini coefficients data is obtained from the World Bank and downloaded",
                          "from ", tags$a(href="http://data.worldbank.org/indicator/SI.POV.GINI",
-                                                    "the World Bank website"), "on 12 January 2015"
-                        )
+                                                    "the World Bank website"), "on 12 January 2015"),
+                h6(tags$a(href="https://github.com/DaanHoevers/Developing_Data_Products",
+                          "Get Code"))
                 
         ),
                 
