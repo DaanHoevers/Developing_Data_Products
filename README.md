@@ -1,4 +1,3 @@
-# Developing_Data_Products
-A Shiny application developed by DHO for the Developing Data Products course from Coursera.
+A Shiny application using Gini coefficient data developed by DHO for the Developing Data Products course from Coursera.
 
 
