@@ -1,2 +1,4 @@
 # Developing_Data_Products
-Developing Data Products Coursera Course
+A Shiny application developed by DHO for the Developing Data Products course from Coursera.
+
+
