@@ -64,7 +64,7 @@ shinyUI(fluidPage(
                          "from ", tags$a(href="http://data.worldbank.org/indicator/SI.POV.GINI",
                                                     "the World Bank website"), "on 12 January 2015"),
                 h6(tags$a(href="https://github.com/DaanHoevers/Developing_Data_Products",
-                          "Get Code"))
+                          "Get code from Github"))
                 
         ),
                 
